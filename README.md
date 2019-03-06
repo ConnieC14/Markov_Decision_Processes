@@ -39,7 +39,7 @@ Generate a MDP example based on a modified yahtzee inspired die game.
     
     The transition matrix ``P`` of the problem can then be defined as follows:
 
-### Resources
+## Packages Used
 Language:
 Python 2
 
