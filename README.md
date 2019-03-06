@@ -1,28 +1,3 @@
-Language:
-Python 2
-
-IDE I used: 
-Jupyter (Python)
-
-OS I used: Mac OS
-
-How to run code:
-Make sure you have python 2.7 installed:
-Python 2.7 :: Anaconda custom (x86_64)
-iPython 6.1.0
-Homebrew and pip
-Anaconda - jupyter
-	- code is saved as ipynb file Anaconda Notebook
-
-Necessary Libraries (can also be installed with conda):
-Numpy  - pip install numpy
-Pandas  -  pip install pandas
-Seaborn  - pip install seaborn
-Matplotlib  - brew install pkg-config, 
-    - pip install matplotlib
-Scikit-learn - pip install -U scikit-learn
-SciPy - pip install scipy
-pymdptoolbox - pip install pymdptoolbox
 
 # Markov Decision Processes
 This will showcase two MDP problems modeling a gridworld and a modified 'yahtzee' inspired dice game.
@@ -64,4 +39,29 @@ Generate a MDP example based on a modified yahtzee inspired die game.
     
     The transition matrix ``P`` of the problem can then be defined as follows:
 
+### Resources
+Language:
+Python 2
 
+IDE I used: 
+Jupyter (Python)
+
+OS I used: Mac OS
+
+How to run code:
+Make sure you have python 2.7 installed:
+Python 2.7 :: Anaconda custom (x86_64)
+iPython 6.1.0
+Homebrew and pip
+Anaconda - jupyter
+	- code is saved as ipynb file Anaconda Notebook
+
+Necessary Libraries (can also be installed with conda):
+Numpy  - pip install numpy
+Pandas  -  pip install pandas
+Seaborn  - pip install seaborn
+Matplotlib  - brew install pkg-config, 
+    - pip install matplotlib
+Scikit-learn - pip install -U scikit-learn
+SciPy - pip install scipy
+pymdptoolbox - pip install pymdptoolbox
